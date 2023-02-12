@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.nlab.org.uk/wp-content/uploads/nlabmain.png",
+    "link": "",
+    "text": "John Harvey"
+  },
+  "text": {
+    "more": "Blahhhhhhhhhhhhhh  douhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsd vvvdouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsddouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsddouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsd",
+    "intro": "This is a preview of what text would look like.  Isn\u0027t it nice?  Ooh yes it is very nice. ",
+    "title": "N/LAB collaboration network"
+  },
+  "legend": {
+    "edgeLabel": "Co-citations",
+    "colorLabel": "",
+    "nodeLabel": "Journals"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
