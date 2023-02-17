@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Academic Collaborations",
-    "colorLabel": "Black",
+    "colorLabel": "Colour indicates network centrality",
     "nodeLabel": "Authors"
   },
   "features": {
