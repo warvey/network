@@ -5,17 +5,17 @@
   "logo": {
     "file": "https://www.nlab.org.uk/wp-content/uploads/nlabmain.png",
     "link": "",
-    "text": "John Harvey"
+    "text": "Dr John Harvey"
   },
   "text": {
-    "more": "Blahhhhhhhhhhhhhh  douhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsd vvvdouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsddouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsddouhsdfhsdfoihsd adofuhsdfh fdshufuohsdk sdfdfh dfjhhdfhsdlfsdj nljsdhfljsdhflsdflsd",
-    "intro": "This is a preview of what text would look like.  Isn\u0027t it nice?  Ooh yes it is very nice. ",
-    "title": "N/LAB collaboration network"
+    "more": "N/LAB is a centre of excellence at the University of Nottingham in behavioural analytics. We are leaders in using Big Data, Behavioural Science and AI/Machine Learning to understand human behaviour through the lens of mass datasets, across sectors ranging across health, retail, mobility, energy and communications. All N/LAB projects target social good in support of sustainable interventions and data-driven policy decision making. In partnership with citizens, business, and the public sector, we derive novel forms of demographic intelligence generated from digital footprint data streams, partnering with NGOs, governments and multinational companies across the globe.",
+    "intro": "Welcome! This graph illustrates the academic collaboration network of N/LAB colleagues and is based on scraped authorship data from joint publications.  Please browse or search for academics of interest. ",
+    "title": "The N/LAB Collaboration Network"
   },
   "legend": {
-    "edgeLabel": "Co-citations",
-    "colorLabel": "",
-    "nodeLabel": "Journals"
+    "edgeLabel": "Academic Collaborations",
+    "colorLabel": "Black",
+    "nodeLabel": "Authors"
   },
   "features": {
     "search": true,
